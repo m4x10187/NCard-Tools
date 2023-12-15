@@ -29,8 +29,8 @@ Usage
 bmp2bm <input.bmp> <output.bm>
 
 # Convert (.bm) image file back to a (.bmp) bitmap file named "output.bmp".
-Windows: py -3 bm2bmp.py <input.bmp>
-Linux: python3 bm2bmp.py <input.bmp>
+Windows: py -3 bm2bmp.py <input.bm>
+Linux: python3 bm2bmp.py <input.bm>
 
 # Extract "nrio_data.bin" dumped using nrioTool to "output".
 Windows: py -3 extract_nrio_data.py <nrio_data.bin>
