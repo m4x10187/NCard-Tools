@@ -40,6 +40,7 @@ Linux: python3 extract_nrio_data.py <nrio_data.bin>
 Credits
 -------
 - [ApacheThunder](https://github.com/ApacheThunder) for amazing reverse engineering work of the N-Card.
+- [Pk11](https://github.com/Epicpkmn11) for making the bm2bmp script (originally was for a DSi camcorder project).
 
 License
 -------
